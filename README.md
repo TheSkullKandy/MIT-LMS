@@ -38,8 +38,8 @@ A visually unified, modern Learning Management System (LMS) built with **Streaml
    streamlit run streamlit-lms/app.py
    ```
 5. **Open in your browser:**
-   - Local: [http://localhost:8502](http://localhost:8502)
-   - Network: [http://<your-ip>:8502](http://<your-ip>:8502)
+   - Local: [http://localhost:8502](http://localhost:8504)
+   - Network: [http://<your-ip>:8502](http://<your-ip>:8504)
 
 ## 📖 Screenshots
 _Add screenshots of your dashboard, assignments, calendar, etc. here._
